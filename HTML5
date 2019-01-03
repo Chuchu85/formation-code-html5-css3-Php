@@ -1,0 +1,8 @@
+Structure du HTML (Editeur Bracket)
+	Html Doctype html
+		Balise HEAD <head> </head>  elle contient les infos qui ne s'affichent pas sur la page
+			les métadonnées
+				meta charset=utf8 (encodage)
+				meta names description (description qui s'affiche dans les SERPS)
+		Balise BODY
+		
